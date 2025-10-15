@@ -6,25 +6,29 @@
 ---
 
 ## 👨‍💼 About Me
-I’m a passionate Web Developer from Bangladesh 🇧🇩  
-I love building responsive and dynamic websites using React, Next.js, and Tailwind CSS.  
-Currently, I’m exploring advanced features of Next.js and focusing on full-stack web development.  
-My goal is to become a professional developer and create impactful web applications.  
+I’m a passionate Web Developer and Programming Enthusiast from Bangladesh 🇧🇩  
+I started my journey with C language and now I’m learning C++ along with DSA and OOP.  
+On the web development side, I’m focused on mastering the MERN Stack.  
+Currently, I’m learning Next.js and improving my frontend development skills step by step.  
 
 ---
 
 ## 🔭 Current Activities
-- 🚀 Learning and exploring **Next.js**  
+- 🚀 Learning **Next.js** and its core features  
+- 💻 Practicing **C++**, **DSA**, and **OOP** concepts regularly  
 - 💼 Working on a **Tourism Website** project  
-- 🧠 Improving skills in **MongoDB**, **Firebase**, and **Express.js**  
-- 🧩 Practicing clean code and reusable components  
+- 🧠 Enhancing my skills in **MongoDB**, **Firebase**, and **Express.js**  
 
 ---
 
 ## 🛠️ Skills
 
+### 🧩 Programming  
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+
 ### 🌐 Frontend  
-![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs)
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react)
 
 ### ⚙️ Backend  
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)
@@ -37,7 +41,7 @@ My goal is to become a professional developer and create impactful web applicati
 ## 🌍 Connect with Me
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ishtiaqueht)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-link)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/your-link)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/your-link)
 
 ---
 
@@ -51,4 +55,4 @@ My goal is to become a professional developer and create impactful web applicati
 
 ---
 
-⭐️ _“Code. Create. Conquer.”_
+⭐️ _“Code. Learn. Build. Grow.”_
