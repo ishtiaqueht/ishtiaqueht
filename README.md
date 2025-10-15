@@ -42,10 +42,10 @@ Currently, I’m learning Next.js and improving my frontend development skills s
 <a href="https://github.com/ishtiaqueht" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
 </a>
-<a href="https://linkedin.com/in/your-link" target="_blank">
+<a href="https://www.linkedin.com/in/ishtiaqueht/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
 </a>
-<a href="https://facebook.com/your-link" target="_blank">
+<a href="https://www.facebook.com/ishtiaque.hossaintanbin.1" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" height="48"/>
 </a>
 
