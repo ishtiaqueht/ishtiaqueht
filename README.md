@@ -41,7 +41,7 @@ Currently, I’m learning Next.js and improving my frontend development skills s
 ## 🌍 Connect with Me
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ishtiaqueht)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-link)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/your-link)
+[![Facebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://facebook.com/your-link)
 
 ---
 
