@@ -51,14 +51,16 @@ Currently, I’m learning Next.js and improving my frontend development skills s
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
+<!-- 1. Number of contributions, followers, repos -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishtiaqueht&show_icons=true&theme=tokyonight)
 
+<!-- 2. Languages used -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqueht&layout=compact&theme=tokyonight)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ishtiaqueht&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_border=false&include_all_commits=true&line_height=20&custom_title=Contributions%20Graph)
-
+<!-- 3. Contributions / “streak” equivalent -->
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ishtiaqueht&show_icons=true&theme=tokyonight&count_private=true&custom_title=Contributions%20Graph)
 
 ---
 
