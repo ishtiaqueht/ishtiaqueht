@@ -39,12 +39,15 @@ Currently, I’m learning Next.js and improving my frontend development skills s
 ---
 
 ## 🌍 Connect with Me
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ishtiaqueht)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-link)
-<a href="https://facebook.com/your-link" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
+<a href="https://github.com/ishtiaqueht" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
 </a>
-
+<a href="https://linkedin.com/in/your-link" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
+</a>
+<a href="https://facebook.com/your-link" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" height="48"/>
+</a>
 
 ---
 
