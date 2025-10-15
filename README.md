@@ -53,7 +53,7 @@ Currently, I’m learning Next.js and improving my frontend development skills s
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishtiaqueht&show_icons=true&theme=tokyonight&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishtiaqueht&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqueht&layout=compact&theme=tokyonight)
 
