@@ -16,7 +16,7 @@ Currently, I’m learning Next.js and improving my frontend development skills s
 ## 🔭 Current Activities
 - 🚀 Learning **Next.js** and its core features  
 - 💻 Practicing **C++**, **DSA**, and **OOP** concepts regularly  
-- 💼 Working on a **Tourism Website** project  
+- 💼 Working on a **Teaching Website** project  
 - 🧠 Enhancing my skills in **MongoDB**, **Firebase**, and **Express.js**  
 
 ---
@@ -41,17 +41,17 @@ Currently, I’m learning Next.js and improving my frontend development skills s
 ## 🌍 Connect with Me
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ishtiaqueht)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-link)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/your-link)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/your-link)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishtiaqueht&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishtiaqueht&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqueht&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishtiaqueht&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ishtiaqueht&theme=tokyonight)
 
 ---
 
