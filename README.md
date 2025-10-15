@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/B3JkVFbT/github-banner.png)
+![Banner](https://i.ibb.co.com/hJ1zjLx5/github-Banner.png)
 
 # 👋 Hi, I'm Ishtiaque Hossain
 ### 💻 MERN Stack & Frontend Developer
